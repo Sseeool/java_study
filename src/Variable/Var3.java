@@ -10,4 +10,3 @@ public class Var3 {
         System.out.println(a);
     }
 }
-
