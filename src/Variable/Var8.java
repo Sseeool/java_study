@@ -10,8 +10,8 @@ public class Var8 {
 
         // 실수
         // 실수 리터럴은 기본이 double 사용, float 형 사용하려면 f 를 붙여서 float 형으로 지정해야 함
-        float f = 10.0f; // 4 바이트
-        double d = 1.0; // 8 바이트
+        float f = 10.0f; // 4바이트
+        double d = 1.0; // 8바이트
     }
 }
 
