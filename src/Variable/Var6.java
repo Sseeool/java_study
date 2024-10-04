@@ -4,7 +4,7 @@ public class Var6 {
     public static void main(String[] args) {
         int a;
 
-        System.out.println(a); // 변수를 초기화하지 않을 경우 컴파일 오류가 발생함
+        // System.out.println(a); // 변수를 초기화하지 않을 경우 컴파일 오류가 발생함
         // 원래 메모리를 차지하고 있던 데이터(이상한 값)가 들어있을 수 있음
     }
 }
